@@ -1,0 +1,20 @@
+h1 {
+	color: blue;
+	border: 4px blue solid; 
+	padding: 25px;
+	text-align: center; 
+}
+
+h2 { 
+	color: red;
+	text-align: center
+} 
+body {
+	background: #B0B0B0
+}
+img {
+	width: 1500px; height: 500px
+}
+p{
+	font-size: 22px
+}
